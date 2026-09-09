@@ -17,7 +17,7 @@
 
 - 📊 Analytics Engineer no **Grupo Boticário**, trabalhando com pipelines de dados em BigQuery/GCP
 - 🔄 Migrei de Relações Internacionais para engenharia de dados há cerca de 1 ano e meio
-- 🎓 Formanda em Relações Internacionais e Estudos de Segurança Nacional (UFABC) · trilha de Data Science no Bootcamp [RE]Start
+- 🎓 Formanda em Relações Internacionais (UFABC) · trilha de Data Science no Bootcamp [RE]Start
 - 🐍 Apaixonada por dados, Python e Machine Learning
 - 🗣️ PT-BR nativo · inglês avançado · espanhol básico · aprendendo Libras
 
