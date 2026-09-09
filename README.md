@@ -43,17 +43,3 @@ Como uma programadora raiz, não vivo sem café! ☕ Se você quiser trocar uma 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </p>
 
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneetwo&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneetwo&layout=compact&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nubiaanne2022/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
