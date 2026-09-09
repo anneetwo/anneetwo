@@ -1,3 +1,5 @@
+[README.md](https://github.com/user-attachments/files/31986148/README.md)
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/bf14a0d0-5ab5-4e59-b745-ae72564b5a11" />
 <h1 align="center">Oi, eu sou a Anne 👋</h1>
 <h3 align="center">Analytics Engineer | Dados, GCP & BigQuery</h3>
 
