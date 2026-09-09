@@ -1,4 +1,3 @@
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/44552f07-416f-4a16-8310-8b37edd3d82c" />
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
@@ -45,13 +44,6 @@ Como uma programadora raiz, não vivo sem café! ☕ Se você quiser trocar uma 
 </p>
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneetwo&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneetwo&layout=compact&hide_border=true" width="40%" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nubiaanne2022/" target="_blank">
