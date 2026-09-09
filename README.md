@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/31986148/README.md)
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/bf14a0d0-5ab5-4e59-b745-ae72564b5a11" />
-<h1 align="center">Oi, eu sou a Anne 👋</h1>
-<h3 align="center">Analytics Engineer | Dados, GCP & BigQuery</h3>
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Analytics%20Engineer%20I-Grupo%20Boticário-orange?style=flat-square" />
@@ -36,7 +35,7 @@ Como uma programadora raiz, não vivo sem café! ☕ Se você quiser trocar uma 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Google_Bigquery_Logo.svg/512px-Google_Bigquery_Logo.svg.png" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -54,7 +53,7 @@ Como uma programadora raiz, não vivo sem café! ☕ Se você quiser trocar uma 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/nubiaanne2022/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
