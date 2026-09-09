@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anne%20Mendonca&fontSize=45&fontColor=ffffff&desc=Analytics%20Engineer%20%7C%20Dados%2C%20GCP%20%26%20BigQuery&descAlignY=62&descSize=18" width="100%" />
-</p>
+<h1 align="center">Oi, eu sou a Anne 👋</h1>
+<h3 align="center">Analytics Engineer | Dados, GCP & BigQuery</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Analytics%20Engineer%20I-Grupo%20Boticário-orange?style=flat-square" />
