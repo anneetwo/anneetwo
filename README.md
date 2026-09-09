@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/5ff18e4e-78f4-441d-906a-44c81efff4be" />
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
@@ -49,4 +50,4 @@ Como uma programadora raiz, não vivo sem café! ☕ Se você quiser trocar uma 
   <a href="https://www.linkedin.com/in/nubiaanne2022/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p><img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/9e013460-6362-43b0-b6ff-4b502461dcf5" />
+</p>
